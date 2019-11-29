@@ -3,6 +3,18 @@
  * Copyright 2013-2019 Start Bootstrap
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-scrolling-nav/blob/master/LICENSE)
  */
+
+ .footer-flex{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  }
+  
+  .footer-item-flex{
+  flex: 0 1 auto;
+  }
+
+
 header {
   padding: 156px 0 100px;
 }
