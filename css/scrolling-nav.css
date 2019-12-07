@@ -59,4 +59,7 @@ text-align:center;
   justify-content: center;
   align-items: center}
 
-  
+  img:hover {
+    -webkit-transform: scaleX(-1);
+    transform: scaleX(-1);
+  }
