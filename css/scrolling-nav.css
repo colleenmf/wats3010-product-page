@@ -45,14 +45,10 @@ letter-spacing:  .2 rem;
     transform: scale(1.15);
   }
 
-  img {
-    opacity: 0.7;
-    filter: alpha(opacity=50); 
-  }
   
-  img:hover {
-    opacity: 1.0;
-    filter: alpha(opacity=100); 
+
+  button:hover {
+    transform: skew(-10deg);
   }
 
   
@@ -61,6 +57,10 @@ letter-spacing:  .2 rem;
   }
 
 
+  
+  
+  
+  
 
 
 
